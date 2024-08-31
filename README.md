@@ -51,6 +51,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## 2.5 Layout.tsx (share data across children) 
 ###2.5.1 Root Layout
 ## 2.6 template.tsx (not sharing data, create new instances)
+![2024-08-30_191841](https://github.com/user-attachments/assets/1069bdf8-5419-4979-a384-11601e2c7dce)
+
 # 3.  Data Fetching and Requests
 ## 3.1 GET
 ## 3.2 POST
