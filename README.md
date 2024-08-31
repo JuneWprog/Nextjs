@@ -44,12 +44,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## 1.6 Parallel Route ->complex-dashboard/ slots: @notification @users @revenue
 ## 1.7 Parallel Intercepting Route
 # 2. Special Files
-## 2.1 loading
-## 2.2 not-found (404 page)
-## 2.3 error
-## 2.4 Layout (share data across children) 
-###2.4.1 Root Layout
-## 2.5 template (not sharing data, create new instances)
+## 2.1 page.tsx
+## 2.2 loading.tsx
+## 2.3 not-found.tsx (404 page)
+## 2.4 error.tsx
+## 2.5 Layout.tsx (share data across children) 
+###2.5.1 Root Layout
+## 2.6 template.tsx (not sharing data, create new instances)
 # 3.  Data Fetching and Requests
 ## 3.1 GET
 ## 3.2 POST
