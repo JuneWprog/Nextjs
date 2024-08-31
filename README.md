@@ -35,21 +35,21 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-# 1. File System Based Routing
-## 1.1 Nested Route  nested folder
-## 1.2 Dynamic Route products/[productId]
-## 1.3 Nested Dynamic Route  products/[productId]/reviews/[reviewId]
-## 1.4 Group Route (auth)/login  "()"
-## 1.5 Intercept Route "(.)" 
-## 1.6 Parallel Route complex-dashboard/ slots: @notification @users @revenue
-## 1.7 Parallel Intercepting route
+# 1. File System-Based Routing
+## 1.1 Nested Route  ->nested folder
+## 1.2 Dynamic Route ->products/[productId]
+## 1.3 Nested Dynamic Route  ->products/[productId]/reviews/[reviewId]
+## 1.4 Group Route ->(auth)/login  "()"
+## 1.5 Intercept Route ->"(.)f2 /f1/f2" 
+## 1.6 Parallel Route ->complex-dashboard/ slots: @notification @users @revenue
+## 1.7 Parallel Intercepting Route
 # 2. Special Files
 ## 2.1 loading
 ## 2.2 not-found (404 page)
 ## 2.3 error
-## 2.4 layout (share data across children) 
-	###2.4.1 Root Layout
-## 2.5 template (not sharing data, create new instance)
+## 2.4 Layout (share data across children) 
+###2.4.1 Root Layout
+## 2.5 template (not sharing data, create new instances)
 # 3.  Data Fetching and Requests
 ## 3.1 GET
 ## 3.2 POST
